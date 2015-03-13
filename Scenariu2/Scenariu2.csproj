@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{92846994-DB42-4169-AC72-8621CE930E7C}</ProjectGuid>
+    <ProjectGuid>05c894d5-ee79-4573-aa57-d5ec11e99da0</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Scenariu2</RootNamespace>

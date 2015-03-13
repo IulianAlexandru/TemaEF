@@ -10,7 +10,6 @@ namespace Scenariu2
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
