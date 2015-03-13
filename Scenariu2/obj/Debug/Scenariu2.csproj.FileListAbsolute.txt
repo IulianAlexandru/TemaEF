@@ -1,1 +1,7 @@
 C:\Users\Iulian\Documents\GitHub\TemaEF\Scenariu2\bin\Debug\Scenariu2.exe.config
+D:\facultate\TemaEF\TemaEF\Scenariu2\bin\Debug\Scenariu2.exe.config
+D:\facultate\TemaEF\TemaEF\Scenariu2\bin\Debug\Scenariu2.exe
+D:\facultate\TemaEF\TemaEF\Scenariu2\bin\Debug\Scenariu2.pdb
+D:\facultate\TemaEF\TemaEF\Scenariu2\obj\Debug\Scenariu2.csprojResolveAssemblyReference.cache
+D:\facultate\TemaEF\TemaEF\Scenariu2\obj\Debug\Scenariu2.exe
+D:\facultate\TemaEF\TemaEF\Scenariu2\obj\Debug\Scenariu2.pdb
